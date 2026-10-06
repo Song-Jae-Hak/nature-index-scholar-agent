@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Per-run working files (regenerated each run)
+_http_cache.json
+_run_log.txt
+faq_raw.txt
+**/_http_cache.json
+**/_run_log.txt
+**/faq_raw.txt
+
+# Generated dated output folders (YYYYMMDD) if run from inside the repo
+/20[0-9][0-9][0-9][0-9][0-9][0-9]/
